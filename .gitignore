@@ -1,0 +1,11 @@
+r_analysis/chache
+r_analysis/diagnostics
+r_analysis/docs
+r_analysis/graphs
+r_analysis/lib
+r_analysis/logs
+r_analysis/profiling
+r_analysis/reports
+r_analysis/tests
+*.asv
+.Rproj.user
